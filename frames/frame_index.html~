@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Final Marks Sheet</title>
+</head>
+<frameset cols=20%,80%>
+<frame src="../dis.php" name="leftside">
+<frame src="right.html" name="rightside">
+</frameset>
+<body>
+</body>
+<noframes>
+<a href="dis.php">Click Here</a>
+</noframes>
+</html> 

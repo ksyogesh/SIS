@@ -1,0 +1,30 @@
+
+
+create table 1cs (college_name varchar(50),student_name varchar(50),USN varchar(50)  primary key,06CS01 integer,06CS02 integer,06CS03 integer,06CS04 integer,06CS05 integer,
+06CS06 integer,06CSL07 integer,06CSL08 integer,total integer,result varchar(50));
+
+create table 2cs (csollege_name varchar(50),student_name varchar(50),USN varchar(50) primary key,06CS21 integer,06CS22 integer,06CS23 integer,06CS24 integer,06CS25 integer,
+06CS26 integer,06CSL27 integer,06CSL28 integer,total integer,result varchar(50));
+
+
+create table 3cs (college_name varchar(50),student_name varchar(50),USN varchar(50)  primary key,06CS31 integer,06CS32 integer,06CS33 integer,06CS34 integer,06CS35 integer,
+06CS36 integer,06CSL37 integer,06CSL38 integer,total integer,result varchar(50));
+
+
+create table 4cs (college_name varchar(50),student_name varchar(50),USN varchar(50)  primary key,06CS41 integer,06CS42 integer,06CS43 integer,06CS44 integer,06CS45 integer,
+06CS46 integer,06CSL47 integer,06CSL48 integer,total integer,result varchar(50));
+
+
+create table 5cs (college_name varchar(50),student_name varchar(50),USN varchar(50)  primary key,06CS51 integer,06CS52 integer,06CS53 integer,06CS54 integer,06CS55 integer,
+06CS26 integer,06CSL57 integer,06CSL58 integer,total integer,result varchar(50));
+
+
+create table 6cs (college_name varchar(50),student_name varchar(50),USN varchar(50)  primary key,06CS61 integer,06CS62 integer,06CS63 integer,06CS64 integer,06CS65 integer,
+06CS66 integer,06CSL67 integer,06CSL68 integer,total integer,result varchar(50));
+
+
+create table 7cs (college_name varchar(50),student_name varchar(50),USN varchar(50)  primary key,06CS71 integer,06CS72 integer,06CS73 integer,06CS74 integer,06CS75 integer,
+06CS76 integer,06CSL77 integer,06CSL78 integer,total integer,result varchar(50));
+
+create table 8cs (college_name varchar(50),student_name varchar(50),USN varchar(50)  primary key,06CS81 integer,06CS82 integer,06CS83 integer,06CS84 integer,06CS85 integer,
+06CS86 integer,total integer,result varchar(50));
