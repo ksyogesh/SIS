@@ -1,4 +1,1 @@
-SIS
-===
-
-Student Info System
+This is Student Information System repo of GECH:)
